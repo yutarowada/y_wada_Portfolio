@@ -1,2 +1,8 @@
-# y_wada_Portfolio
-This is Yutaro's Portfolio of Data Science competitions
+# kaggleなどデータ分析コンペ挑戦記録のまとめ
+本リポジトリでは、Kaggleなどのデータ分析コンペに参加した際のノートブックを記録していく
+記録予定コンペサイトは以下の通り
+- Kaggle
+- SIGNATE
+- Nishika
+またよく使うコードも載せるかも
+
